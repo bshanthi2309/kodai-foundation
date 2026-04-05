@@ -414,7 +414,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "/sanitary_works_7.jpeg"
 
     ],
-    "description": "**On the occasion of May Day (Labour Day), Kodai Charitable Foundation organised a heartfelt Thanksgiving Event for the sanitation workers of West Mambalam, honouring their vital contribution in keeping our city clean and healthy. The event was presided over by Shri H. Raja, Senior BJP Leader and Councillor Smt. Uma Anandan. Shri. H. Raja appreciated the selfless service rendered by the conservancy staff and stressed the key role played by them in the Honorable PM Vision of Swachh Bharat.  As a token of gratitude, the Foundation distributed 5 kg rice bags and provided breakfast and refreshments to over 70+ sanitation workers"
+    "description": "On the occasion of May Day (Labour Day), Kodai Charitable Foundation organised a heartfelt Thanksgiving Event for the sanitation workers of West Mambalam, honouring their vital contribution in keeping our city clean and healthy. The event was presided over by Shri H. Raja, Senior BJP Leader and Councillor Smt. Uma Anandan. Shri. H. Raja appreciated the selfless service rendered by the conservancy staff and stressed the key role played by them in the Honorable PM Vision of Swachh Bharat.  As a token of gratitude, the Foundation distributed 5 kg rice bags and provided breakfast and refreshments to over 70+ sanitation workers"
   },
   {
     "name": "Kaakum Karangal Old Age home donation event",
@@ -471,11 +471,13 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
     {
     "name": "Blood Donation Camp",
-    "media_snippets":["/steel_racks_media.jpeg"],
+    "media_snippets":[],
     "gallery_images": [
-      "/steel_racks_1.jpeg",
-      "/steel_racks_2.jpeg",
-      "/steel_racks_3.jpeg"
+      "/Blood-Donation1.jpeg",
+      "/Blood-Donation2.jpeg",
+      "/Blood-Donation3.jpeg",
+      "/Blood-Donation4.jpeg",
+      "/Blood-Donation5.jpeg"
     ],
     "description": "Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff."
   }
