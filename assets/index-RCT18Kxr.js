@@ -221,9 +221,9 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {
       "id": "4",
-      "title": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
-      "description": "on June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
-      "fullDescription": "on June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
+      "title": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava Jayanthi on June 10th)",
+      "description": "On June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
+      "fullDescription": "On June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
       "date": "2025-06-08",
       "image":"/vada_tirunellar_2.jpeg",
       "images": ["/vada_tirunellar_2.jpeg"],
@@ -251,12 +251,12 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {
       "id": "7",
-      "title": "  Blood donation camp @ west Mambalam ",
-      "description": " Blood donation camp @ west Mambalam ",
-      "fullDescription": " Blood donation camp @ west Mambalam ",
+      "title": "  Blood donation Camp @ West Mambalam ",
+      "description": " Blood donation Camp @ West Mambalam ",
+      "fullDescription": " Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff. ",
       "date": "2025-08-15",
-      "image":"/logo.png",
-      "images": ["/logo.png"],
+      "image":"/Blood-Donation1.jpeg",
+      "images": ["/Blood-Donation1.jpeg"],
       "category": "Community Support"
     }
 
@@ -471,7 +471,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "description": "On June 17th, Tuesday, Kodai Charitable Foundation based at West Mambalam had organised a donation event at the Chennai Corporation Primary School, Ellaiamman Koil street near Madley subway in the presence of Councillor Smt. Uma Anandan. Multi purpose storage steel racks were made to order as per the school requirements and were received from the Foundation members by the Headmistress Smt. Senthamizh Selvi and a few other staff members."
   },
     {
-    "name": "Blood Donation Camp",
+    "name": "Blood Donation Camp @ West Mambalam" ,
     "media_snippets":[],
     "gallery_images": [
       "/Blood-Donation1.jpeg",
