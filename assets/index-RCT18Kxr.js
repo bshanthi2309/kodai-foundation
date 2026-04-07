@@ -245,8 +245,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "description": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "fullDescription": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "date": "2025-07-26",
-      "image":"/logo.png",
-      "images": ["/logo.png"],
+      "image":"/NMMS1.jpeg",
+      "images": ["/MMS1.jpeg"],
       "category": "Community Support"
     },
     {
@@ -419,7 +419,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Kaakum Karangal Old Age home donation event",
-    "media_snippets":[],
+    "":[],
     "gallery_images": [
       "/carpets_1.jpeg",
       "/carpets_2.jpeg",
@@ -432,7 +432,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "World Environment day - gifting saplings to schools",
-    "media_snippets":["/notebook_media.jpeg"],
+    "":["/notebook_media.jpeg"],
     "gallery_images": [
       "/environment_4.jpeg",
       "/environment_2.jpeg",
@@ -451,7 +451,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
-    "media_snippets":[],
+    "":[],
     "gallery_images": [
       "/vada_tirunellar_1.jpeg",
       "/vada_tirunellar_2.jpeg",
@@ -472,13 +472,27 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
     {
     "name": "Blood Donation Camp @ West Mambalam" ,
+    "media_snippets":[/BloodDonationMedia.jpeg"],
+    "gallery_images": [
+      "/Blood-Donation1.jpeg",
+      "/Blood-Donation2.jpeg",
+      "/Blood-Donation3.jpeg",
+      "/Blood-Donation4.jpeg",
+      "/Blood-Donation5.jpeg",
+      "/Blood-Donation6.jpeg"
+    ],
+    "description": "Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff."
+  },
+    {
+    "name": "Inaugration of NMMS coaching @ CIT Nagar corporation school " ,
     "media_snippets":[],
     "gallery_images": [
       "/Blood-Donation1.jpeg",
       "/Blood-Donation2.jpeg",
       "/Blood-Donation3.jpeg",
       "/Blood-Donation4.jpeg",
-      "/Blood-Donation5.jpeg"
+      "/Blood-Donation5.jpeg",
+      "/Blood-Donation6.jpeg"
     ],
     "description": "Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff."
   }
