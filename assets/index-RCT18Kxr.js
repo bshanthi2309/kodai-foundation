@@ -419,7 +419,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Kaakum Karangal Old Age home donation event",
-    "":[],
+    "media_snippets":[],
     "gallery_images": [
       "/carpets_1.jpeg",
       "/carpets_2.jpeg",
@@ -432,7 +432,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "World Environment day - gifting saplings to schools",
-    "":["/notebook_media.jpeg"],
+    "media_snippets":["/notebook_media.jpeg"],
     "gallery_images": [
       "/environment_4.jpeg",
       "/environment_2.jpeg",
@@ -451,7 +451,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
-    "":[],
+    "media_snippets":[],
     "gallery_images": [
       "/vada_tirunellar_1.jpeg",
       "/vada_tirunellar_2.jpeg",
