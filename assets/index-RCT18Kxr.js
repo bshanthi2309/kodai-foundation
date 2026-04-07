@@ -471,7 +471,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Blood donation Camp @ West Mambalam ",
-    "media_snippets":["/BloodDonationMediajpeg"],
+    "media_snippets":["/BloodDonationMedia.jpeg"],
     "gallery_images": [
       "/Blood-Donation1.jpeg",
       "/Blood-Donation2.jpeg",
