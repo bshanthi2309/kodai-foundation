@@ -239,24 +239,24 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "images": ["/steel_racks_1.jpeg"],
       "category": "Community Support"
     },
-    {
+{
       "id": "6",
       "title": "  Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "description": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "fullDescription": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "date": "2025-07-26",
-      "image":"/logo.png",
-      "images": ["/logo.png"],
+      "image":"/NMMS1.jpeg",
+      "images": ["/NMMS1.jpeg"],
       "category": "Community Support"
     },
     {
       "id": "7",
-      "title": "  Blood donation camp @ west Mambalam ",
-      "description": " Blood donation camp @ west Mambalam ",
-      "fullDescription": " Blood donation camp @ west Mambalam ",
+      "title": "  Blood donation Camp @ West Mambalam ",
+      "description": " Blood donation Camp @ West Mambalam ",
+      "fullDescription": " Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff. ",
       "date": "2025-08-15",
-      "image":"/logo.png",
-      "images": ["/logo.png"],
+      "image":"/Blood-Donation1.jpeg",
+      "images": ["/Blood-Donation1.jpeg"],
       "category": "Community Support"
     }
 
