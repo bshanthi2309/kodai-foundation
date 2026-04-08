@@ -428,7 +428,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
  
   {
     "name": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
-    "media_snippets":[""],
+    "media_snippets":[],
     "gallery_images": [
       "/NMMS1.jpeg",
       "/NMMS2.jpeg",
