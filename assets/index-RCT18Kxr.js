@@ -244,13 +244,24 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "title": "  Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "description": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
       "fullDescription": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
-      "date": "2025-07-26",
+      "date": "2025-08-02",
+      "image":"/NMMS1.jpeg",
+      "images": ["/NMMS1.jpeg"],
+      "category": "Community Support"
+    },
+    
+{
+      "id": "7",
+      "title": " PM- Poshan scheme/ Nalvirunthu",
+      "description": " PM- Poshan scheme/ Nalvirunthu ",
+      "fullDescription": " Sponsoring nourishing food and mentoring the students about nutrition and healthy food choices @ CIT Nagar corporation Primary school, mentoring by Physiotherapist Shri. Srinath Raghavan ",
+      "date": "2025-08-02",
       "image":"/NMMS1.jpeg",
       "images": ["/NMMS1.jpeg"],
       "category": "Community Support"
     },
     {
-      "id": "7",
+      "id": "8",
       "title": "  Blood donation Camp @ West Mambalam ",
       "description": " Blood donation Camp @ West Mambalam ",
       "fullDescription": " Blood donation camp was organised on behalf of Kodai charitable foundation as part of Independence day celebrations. About 70 donors made the day very special by donating blood. ESI hospital KK nagar had rendered invaluable assistance by sending two of their vehicles alongwith 15 medical and para medical staff. ",
