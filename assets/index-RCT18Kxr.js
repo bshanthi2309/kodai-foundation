@@ -252,12 +252,12 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     
 {
       "id": "7",
-      "title": " PM- Poshan scheme/ Nalvirunthu",
-      "description": " PM- Poshan scheme/ Nalvirunthu ",
+      "title": " PM - Poshan scheme/ Nalvirunthu",
+      "description": " PM - Poshan scheme/ Nalvirunthu ",
       "fullDescription": " Sponsoring nourishing food and mentoring the students about nutrition and healthy food choices @ CIT Nagar corporation Primary school, mentoring by Physiotherapist Shri. Srinath Raghavan ",
       "date": "2025-08-02",
-      "image":"/NMMS1.jpeg",
-      "images": ["/NMMS1.jpeg"],
+      "image":"/PMPoshan1.jpeg",
+      "images": ["/PMPoshan1.jpeg"],
       "category": "Community Support"
     },
     {
@@ -411,6 +411,17 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+    {
+    "name": "PM - Poshan scheme/ Nalvirunthu ",
+    "media_snippets":[],
+    "gallery_images": [
+      "/PMPoshan1.jpeg",
+      "/PMPoshan2.jpeg",
+      "/PMPoshan3.jpeg",
+      "/PMPoshan4.jpeg"
+    ],
+    "description": ""
+  },
   {
     "name": "Sanitary Workers Support",
     "media_snippets":[
