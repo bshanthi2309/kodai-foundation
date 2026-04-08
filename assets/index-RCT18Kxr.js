@@ -411,7 +411,33 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+
     {
+    "name": "Blood donation Camp @ West Mambalam ",
+    "media_snippets":["/BloodDonationMedia.jpeg"],
+    "gallery_images": [
+      "/Blood-Donation1.jpeg",
+      "/Blood-Donation2.jpeg",
+      "/Blood-Donation3.jpeg",
+      "/Blood-Donation4.jpeg",
+      "/Blood-Donation5.jpeg",
+      "/Blood-Donation6.jpeg"
+    ],
+    "description": ""
+  },
+ 
+  {
+    "name": " Inaugration of NMMS coaching @ CIT Nagar corporation school ",
+    "media_snippets":[""],
+    "gallery_images": [
+      "/NMMS1.jpeg",
+      "/NMMS2.jpeg",
+      "/NMMS3.jpeg",
+      "/NMMS4.jpeg"
+    ],
+    "description": ""
+  },
+      {
     "name": "PM - Poshan scheme/ Nalvirunthu ",
     "media_snippets":[],
     "gallery_images": [
@@ -422,35 +448,28 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     ],
     "description": ""
   },
-  {
-    "name": "Sanitary Workers Support",
-    "media_snippets":[
-      "/sanitary_works_6.jpeg"
-    ],
+    {
+    "name": "Donation of Multi purpose storage steel racks to Chennai corpn school, West Mambalam",
+    "media_snippets":["/steel_racks_media.jpeg"],
     "gallery_images": [
-      "/sanitary_works_1.jpeg",
-      "/sanitary_works_2.jpeg",
-      "/sanitary_works_3.jpeg",
-      "/sanitary_works_4.jpeg",
-      "/sanitary_works_5.jpeg",
-      "/sanitary_works_7.jpeg"
-
+      "/steel_racks_1.jpeg",
+      "/steel_racks_2.jpeg",
+      "/steel_racks_3.jpeg"
     ],
     "description": ""
   },
-  {
-    "name": "Kaakum Karangal Old Age home donation event",
+    {
+    "name": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
     "media_snippets":[],
     "gallery_images": [
-      "/carpets_1.jpeg",
-      "/carpets_2.jpeg",
-      "/carpets_3.jpeg",
-      "/carpets_4.jpeg",
-      "/carpets_5.jpeg",
-      "/carpets_6.mp4"
+      "/vada_tirunellar_1.jpeg",
+      "/vada_tirunellar_2.jpeg",
+      "/vada_tirunellar_3.jpeg",
+      "/vada_tirunellar_4.jpeg"
     ],
     "description": ""
   },
+
   {
     "name": "World Environment day - gifting saplings to schools",
     "media_snippets":["/notebook_media.jpeg"],
@@ -471,39 +490,36 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "description": ""
   },
   {
-    "name": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
+    "name": "Kaakum Karangal Old Age home donation event",
     "media_snippets":[],
     "gallery_images": [
-      "/vada_tirunellar_1.jpeg",
-      "/vada_tirunellar_2.jpeg",
-      "/vada_tirunellar_3.jpeg",
-      "/vada_tirunellar_4.jpeg"
+      "/carpets_1.jpeg",
+      "/carpets_2.jpeg",
+      "/carpets_3.jpeg",
+      "/carpets_4.jpeg",
+      "/carpets_5.jpeg",
+      "/carpets_6.mp4"
     ],
     "description": ""
   },
   {
-    "name": "Donation of Multi purpose storage steel racks to Chennai corpn school, West Mambalam",
-    "media_snippets":["/steel_racks_media.jpeg"],
-    "gallery_images": [
-      "/steel_racks_1.jpeg",
-      "/steel_racks_2.jpeg",
-      "/steel_racks_3.jpeg"
+    "name": "Sanitary Workers Support",
+    "media_snippets":[
+      "/sanitary_works_6.jpeg"
     ],
-    "description": ""
-  },
-  {
-    "name": "Blood donation Camp @ West Mambalam ",
-    "media_snippets":["/BloodDonationMedia.jpeg"],
     "gallery_images": [
-      "/Blood-Donation1.jpeg",
-      "/Blood-Donation2.jpeg",
-      "/Blood-Donation3.jpeg",
-      "/Blood-Donation4.jpeg",
-      "/Blood-Donation5.jpeg",
-      "/Blood-Donation6.jpeg"
+      "/sanitary_works_1.jpeg",
+      "/sanitary_works_2.jpeg",
+      "/sanitary_works_3.jpeg",
+      "/sanitary_works_4.jpeg",
+      "/sanitary_works_5.jpeg",
+      "/sanitary_works_7.jpeg"
+
     ],
     "description": ""
   }
+
+
 
 ]`),a=s.filter(u=>u.media_snippets&&u.media_snippets.length>0),l=Math.ceil(s.length/o),c=s.slice((n-1)*o,n*o);return f.jsx("section",{id:"gallery",className:"py-20 bg-white",children:f.jsxs("div",{className:"container mx-auto px-4",children:[f.jsxs(le.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.8},viewport:{once:!0},className:"text-center mb-14",children:[f.jsx("h2",{className:"text-3xl md:text-5xl font-playfair font-bold mb-6",children:"Our Gallery"}),f.jsx("div",{className:"w-24 h-1 bg-primary mx-auto mb-8"}),f.jsx("p",{className:"text-gray-600 max-w-3xl mx-auto",children:"A visual journey through our initiatives and impact in the community."})]}),f.jsxs(qC,{defaultValue:"gallery_images",className:"w-full",children:[f.jsxs(Zp,{className:"mb-8 flex-nowrap overflow-x-auto whitespace-nowrap flex items-end border-b border-gray-200 bg-transparent z-10 relative",children:[f.jsx(Ic,{value:"gallery_images",className:"capitalize px-4 sm:px-6 py-2 text-base sm:text-lg font-medium border-b-2 border-transparent bg-transparent transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 data-[state=active]:border-primary data-[state=active]:text-primary data-[state=active]:bg-white hover:text-primary",children:"Gallery Images"}),a.length>0&&f.jsx(Ic,{value:"media_snippets",className:"capitalize px-4 sm:px-6 py-2 text-base sm:text-lg font-medium border-b-2 border-transparent bg-transparent transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 data-[state=active]:border-primary data-[state=active]:text-primary data-[state=active]:bg-white hover:text-primary",children:"Media Snippets"})]}),f.jsx(Fc,{value:"gallery_images",children:f.jsx("div",{className:"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6",children:c.map((u,d)=>f.jsxs(le.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.5,delay:((n-1)*o+d)*.05},viewport:{once:!0},className:"relative group cursor-pointer overflow-hidden rounded-lg",onClick:()=>t({...u,images:u.gallery_images}),children:[f.jsx("div",{className:"aspect-w-16 aspect-h-12",children:/\.(mp4|webm|ogg)$/i.test(u.gallery_images[0])?f.jsx("video",{src:u.gallery_images[0],controls:!0,className:"w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"}):f.jsx("img",{src:u.gallery_images[0],alt:u.name,className:"w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"})}),f.jsxs("div",{className:"absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center items-center text-white p-6",children:[f.jsx("h3",{className:"text-xl font-bold mb-2",children:u.name}),f.jsx("p",{className:"text-sm text-center",children:u.description})]})]},d))})}),f.jsx(Fc,{value:"media_snippets",children:f.jsx("div",{className:"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6",children:c.filter(u=>u.media_snippets&&u.media_snippets.length>0).map((u,d)=>f.jsxs(le.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},transition:{duration:.5,delay:((n-1)*o+d)*.05},viewport:{once:!0},className:"relative group cursor-pointer overflow-hidden rounded-lg",onClick:()=>t({...u,images:u.media_snippets}),children:[f.jsx("div",{className:"aspect-w-16 aspect-h-12",children:/\.(mp4|webm|ogg)$/i.test(u.media_snippets[0])?f.jsx("video",{src:u.media_snippets[0],controls:!0,className:"w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"}):f.jsx("img",{src:u.media_snippets[0],alt:u.name,className:"w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"})}),f.jsxs("div",{className:"absolute inset-0 bg-black bg-opacity-50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-center items-center text-white p-6",children:[f.jsx("h3",{className:"text-xl font-bold mb-2",children:u.name}),f.jsx("p",{className:"text-sm text-center",children:u.description})]})]},d))})})]}),f.jsxs("div",{className:"flex justify-center items-center mt-10 space-x-4",children:[f.jsx("button",{onClick:()=>r(u=>Math.max(u-1,1)),disabled:n===1,className:"px-4 py-2 bg-primary text-white rounded disabled:opacity-50",children:"Previous"}),f.jsxs("span",{className:"text-gray-600",children:["Page ",n," of ",l]}),f.jsx("button",{onClick:()=>r(u=>Math.min(u+1,l)),disabled:n===l,className:"px-4 py-2 bg-primary text-white rounded disabled:opacity-50",children:"Next"})]}),f.jsx(Su,{open:!!e,onOpenChange:()=>t(null),children:e&&f.jsxs(Ra,{className:"sm:max-w-2xl max-w-[95%] md:max-w-3xl lg:max-w-4xl bg-white px-4 py-6 rounded-lg",children:[f.jsx(Cu,{children:f.jsx(Oa,{className:"text-2xl font-bold mb-4",children:e.name})}),f.jsx("div",{className:"mt-4",children:f.jsxs(Pu,{className:"w-full",children:[f.jsx(Eu,{children:e.images.map((u,d)=>f.jsx(Nu,{children:f.jsx("div",{className:"aspect-w-16 aspect-h-9",children:/\.(mp4|webm|ogg)$/i.test(u)?f.jsx("video",{src:u,controls:!0,className:"w-full h-[400px] object-contain rounded-lg"}):f.jsx("img",{src:u,alt:`${e.name} - Image ${d+1}`,className:"w-full h-[400px] object-contain rounded-lg"})})},d))}),f.jsx(ju,{className:"left-2"}),f.jsx(Mu,{className:"right-2"})]})})]})})]})})},PI=()=>{const[e,t]=x.useState({name:"",email:"",subject:"",message:""}),n=o=>{const{name:i,value:s}=o.target;t(a=>({...a,[i]:s}))},r=o=>{o.preventDefault(),console.log("Form submitted:",e),o.preventDefault();const{name:i,email:s,subject:a,message:l}=e,c=`mailto:info@kodaicharity.in?subject=${encodeURIComponent(a)}&body=${encodeURIComponent(`Name: ${i}
 Email: ${s}
