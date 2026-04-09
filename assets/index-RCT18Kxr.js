@@ -272,8 +272,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {
       "id": "9",
-      "title": "Notebooks and Pencils distribution - Corporation Primary school, Mullai Nagar, Ashok Nagar Chennai 83 ",
-      "description": " Notebooks and Pencils distribution - Corporation Primary school, Mullai Nagar, Ashok Nagar Chennai 83 ",
+      "title": "Notebooks and Pencils distribution ",
+      "description": "Corporation Primary school, Mullai Nagar, Ashok Nagar Chennai 83 ",
       "fullDescription": "On November 4 th 2025, notebooks and pencils were distributed to about 150 students of Corporation Primary school, Mullai Nagar, Ashok Nagar Chennai 83. The Headmistress Mrs. Savuriammal and other faculties thanked the Directors of Kodai charitable foundation for their generous contribution.",
       "date": "2025-09-04",
       "image":"/CrpnSch1.jpeg",
