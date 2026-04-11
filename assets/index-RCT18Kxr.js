@@ -431,7 +431,19 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
-
+ {
+    "name": "Kidney health awareness campaign @ Pudur Corporation High school, Ashok Nagar Chennai 83. ",
+    "media_snippets":[],
+    "gallery_images": [
+      "/MobileEyeUnit1.jpeg",
+      "/MobileEyeUnit2.jpeg",
+      "/MobileEyeUnit3.jpeg",
+      "/MobileEyeUnit4.jpeg",
+      "/MobileEyeUnit5.jpeg",
+      "/MobileEyeUnit6.jpeg"
+    ],
+    "description": ""
+  },
  {
     "name": "Free EYE Check-up camp @ Ottagapalayam alum area near Saligramam. ",
     "media_snippets":[],
