@@ -446,7 +446,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
     {
     "name": "Notebooks and Pencils distribution - Corporation Primary school, Mullai Nagar, Ashok Nagar Chennai 83",
-    "media_snippets":["CrpnSchMedia.jpeg"],
+    "media_snippets":["/CrpnSchMedia.jpeg"],
     "gallery_images": [
       "/CrpnSch1.jpeg",
       "/CrpnSch2.jpeg",
