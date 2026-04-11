@@ -285,7 +285,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "title": "Free EYE Check-up Camp. ",
       "description": "Ottagapalayam alum area - Saligramam, Chennai",
       "fullDescription": "On November 8th 2025, Kodai charitable foundation had organised a free EYE Check-up camp in the Ottagapalayam alum area near Saligramam. 61 residents of the area were tested and prescribed glasses and further medication by the Opthalmologists and para medical staff of Sri Sankara Eye Hospital, Pammal who had lent their mobile eye testing unit and their staff for 6 hours .",
-      "date": "2025-09-04",
+      "date": "2025-09-08",
       "image":"/MobileEyeUnit1.jpeg",
       "images": ["/MobileEyeUnit1.jpeg"],
       "category": "Healthcare"
