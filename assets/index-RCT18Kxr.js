@@ -282,12 +282,22 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {
       "id": "10",
-      "title": "Free EYE Check-up Camp. ",
+      "title": "Free EYE Check-up Camp",
       "description": "Ottagapalayam alum area - Saligramam, Chennai",
       "fullDescription": "On November 8th 2025, Kodai charitable foundation had organised a free EYE Check-up camp in the Ottagapalayam alum area near Saligramam. 61 residents of the area were tested and prescribed glasses and further medication by the Opthalmologists and para medical staff of Sri Sankara Eye Hospital, Pammal who had lent their mobile eye testing unit and their staff for 6 hours .",
       "date": "2025-09-08",
       "image":"/MobileEyeUnit1.jpeg",
       "images": ["/MobileEyeUnit1.jpeg"],
+      "category": "Healthcare"
+    },
+    {
+      "id": "11",
+      "title": "Kidney health awareness campaign ",
+      "description": "Pudur Corporation High school, Ashok Nagar Chennai 83",
+      "fullDescription": "On November 13th 2025, a Kidney health awareness campaign was conducted by TANKER foundation alongwith Team KCF at Pudur Corporation High school, Ashok Nagar Chennai 83. An awareness drama was enacted by 4 professional theatre artists and the students were given placards to join the fun quiz.",
+      "date": "2025-09-13",
+      "image":"/KidneyAwareness1.jpeg",
+      "images": ["/KidneyAwareness2.jpeg"],
       "category": "Healthcare"
     }
 
@@ -435,12 +445,13 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "name": "Kidney health awareness campaign @ Pudur Corporation High school, Ashok Nagar Chennai 83. ",
     "media_snippets":[],
     "gallery_images": [
-      "/MobileEyeUnit1.jpeg",
-      "/MobileEyeUnit2.jpeg",
-      "/MobileEyeUnit3.jpeg",
-      "/MobileEyeUnit4.jpeg",
-      "/MobileEyeUnit5.jpeg",
-      "/MobileEyeUnit6.jpeg"
+      "/KidneyAwareness1.jpeg",
+      "/KidneyAwareness2.jpeg",
+      "/KidneyAwareness3.jpeg",
+      "/KidneyAwareness4.jpeg",
+      "/KidneyAwareness5.jpeg",
+      "/KidneyAwareness6.jpeg",
+      "/KidneyAwareness7.jpeg"
     ],
     "description": ""
   },
