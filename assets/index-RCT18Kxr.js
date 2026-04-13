@@ -573,9 +573,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
   },
   {
     "name": "Sanitary Workers Support",
-    "media_snippets":[
-      "/sanitary_works_6.jpeg"
-    ],
+    "media_snippets":["/sanitary_works_6.jpeg"],
     "gallery_images": [
       "/sanitary_works_1.jpeg",
       "/sanitary_works_2.jpeg",
