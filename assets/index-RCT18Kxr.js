@@ -304,9 +304,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "id": "12",
       "title": "Support programme for visually challenged persons",
       "description": "KCF Office, Giri Street, West Mambalam.",
-      "fullDescription": "Kodai Charitable Foundation organised a support programme for visually challenged persons on 23rd December 2025 at its office in Giri Street, West Mambalam. 
-      As part of the initiative, essential provisions, including 5-kg rice bags, were distributed to 25 visually challenged beneficiaries.
-      The programme was presided over by Ward Councillor Ms. Uma Anandan, who interacted with the beneficiaries to understand their challenges and assured them of continued support through appropriate channels.",
+      "fullDescription": "Kodai Charitable Foundation organised a support programme for visually challenged persons on 23rd December 2025 at its office in Giri Street, West Mambalam. As part of the initiative, essential provisions, including 5-kg rice bags, were distributed to 25 visually challenged beneficiaries. The programme was presided over by Ward Councillor Ms. Uma Anandan, who interacted with the beneficiaries to understand their challenges and assured them of continued support through appropriate channels.",
       "date": "2025-12-23",
       "image":"/BlindPplFood1.jpeg",
       "images": ["/BlindPplFood2.jpeg"],
