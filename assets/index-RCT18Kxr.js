@@ -326,8 +326,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "description": "",
       "fullDescription": "On January 14th 2026, On behalf of Kodai charitable foundation, a mixer grinder was donated to Smt.Ponnammal's family to facilitate the set-up of a food cart for their livelihood",
       "date": "2026-01-14",
-      "image":"/MixerGringer.jpeg",
-      "images": ["/MixerGringer.jpeg"],
+      "image":"/MixerGrinder.jpeg",
+      "images": ["/MixerGrinder.jpeg"],
       "category": "Community Support"
     }
 
