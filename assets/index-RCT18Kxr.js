@@ -324,10 +324,20 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "id": "14",
       "title": "Mixer Grinder Donation",
       "description": "",
-      "fullDescription": "On behalf of Kodai charitable foundation, mixer grinder donation started on January 14th 2026. The first mixer grinder was donated to Smt.Ponnammal's family on the same day and the second was donated to Smt.Renuka's family on February 8th 2026, to facilitate the set-up of a food cart for their livelihood",
+      "fullDescription": "On behalf of Kodai charitable foundation, on January 14th 2026 a mixer grinder was donated to Smt.Ponnammal's family to facilitate the set-up of a food cart for their livelihood",
       "date": "2026-01-14",
-      "image":"/MixerGrinderPonnammal.jpeg",
-      "images": ["/MixerGrinderRenuka.jpeg"],
+      "image":"/MixerGrinder.jpeg",
+      "images": ["/MixerGrinder.jpeg"],
+      "category": "Community Support"
+    },
+   {
+      "id": "15",
+      "title": "Sewing Machine Donation",
+      "description": "",
+      "fullDescription": "On February 8th 2026, On behalf of Kodai charitable foundation, a Sewing machine was donated to Smt.Renuka's family to facilitate the set-up of a tailoring shop for their livelihood",
+      "date": "2026-02-08",
+      "image":"/SewingMachine.jpeg",
+      "images": ["/SewingMachine.jpeg"],
       "category": "Community Support"
     }
 
@@ -472,6 +482,14 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+ {
+    "name": "Sewing machine Donation",
+    "media_snippets":[],
+    "gallery_images": [
+      "/SewingMachine.jpeg"
+     ],
+    "description": ""
+  },
  {
     "name": "Mixer Grinder Donation",
     "media_snippets":[],
