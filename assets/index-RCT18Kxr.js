@@ -316,8 +316,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "description": "Ottagapalayam alum area - Saligramam, Chennai",
       "fullDescription": "Follow up on the Eye check up camp held on November 8th 2025",
       "date": "2026-01-03",
-      "image":"/EyeGlasses.jpeg",
-      "images": ["/EyeGlasses.jpeg"],
+      "image":"/EyeGlasses6.jpeg",
+      "images": ["/EyeGlasses1.jpeg"],
       "category": "Community Support"
     },
      {
@@ -483,7 +483,12 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "name": "Eye glasses distribution @ Follow up on the Eye check up camp held on November 8th 2025",
     "media_snippets":[],
     "gallery_images": [
-      "/EyeGlasses.jpeg"
+      "/EyeGlasses6.jpeg",
+      "/EyeGlasses1.jpeg",
+      "/EyeGlasses2.jpeg",
+      "/EyeGlasses3.jpeg",
+      "/EyeGlasses4.jpeg",
+      "/EyeGlasses5.jpeg"
     ],
     "description": ""
   },
