@@ -494,8 +494,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "name": "Mixer Grinder Donation",
     "media_snippets":[],
     "gallery_images": [
-      "/MixerGrinderPonnammal.jpeg",
-      "/MixerGrinderRenuka.jpeg"
+      "/MixerGrinder.jpeg"
+ 
     ],
     "description": ""
   },
