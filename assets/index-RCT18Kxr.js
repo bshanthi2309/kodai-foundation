@@ -504,6 +504,25 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+   {
+    "name": "Donation to improve students nutrition",
+    "media_snippets":[],
+    "gallery_images": [
+      "/PaadaSalai1.jpeg",
+      "/PaadaSalai2.jpeg",
+      "/PaadaSalai3.jpeg",
+      "/PaadaSalai4.jpeg"
+     ],
+    "description": ""
+  },
+  {
+    "name": "School building renovation",
+    "media_snippets":[],
+    "gallery_images": [
+      "/SchoolBuildingRenovation.jpeg"
+     ],
+    "description": ""
+  },
  {
     "name": "Sewing machine Donation",
     "media_snippets":[],
