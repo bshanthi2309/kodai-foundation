@@ -222,8 +222,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     {
       "id": "4",
       "title": "Maharudra Japam and Veda Parayanam in multiple temples (on account of Mahaperiyava jayanthi on June 10th)",
-      "description": "on June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
-      "fullDescription": "on June 8th - 50 kgs organic rice donated for the Vada Thirunallar temple kumbabhishekam",
+      "description": "On June 8th - Organic rice donated for the Vada Thirunallar temple kumbabhishekam",
+      "fullDescription": "On June 8th - Organic rice donated for the Vada Thirunallar temple kumbabhishekam",
       "date": "2025-06-08",
       "image":"/vada_tirunellar_2.jpeg",
       "images": ["/vada_tirunellar_2.jpeg"],
