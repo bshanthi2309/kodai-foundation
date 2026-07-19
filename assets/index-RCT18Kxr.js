@@ -346,8 +346,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "description": "",
       "fullDescription": "On behalf of Kodai charitable foundation, the building, housing the school library and reading rooms at Pudur Corporation High school Ashok Nagar Chennai 83, was renovated and painted afresh",
       "date": "2026-02-27",
-      "image":"/SchoolBuildingRenovation.jpeg",
-      "images": ["/SchoolBuildingRenovation.jpeg"],
+      "image":"/Renovation1.jpeg",
+      "images": ["/Renovation1.jpeg"],
       "category": "Community Support"
     },
     {
@@ -523,7 +523,9 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "name": "School building renovation",
     "media_snippets":[],
     "gallery_images": [
-      "/SchoolBuildingRenovation.jpeg"
+      "/Renovation1.jpeg",
+      "/Renovation2.jpeg",
+      "/Renovation3.jpeg"
      ],
     "description": ""
   },
