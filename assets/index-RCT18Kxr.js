@@ -354,7 +354,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "id": "17",
       "title": "Donation to improve students nutrition",
       "description": "",
-      "fullDescription": "Kodai charitable foundation sponsored Sri Pratyaksha Charitable trust (Sangeetha paada salai) to help address the nutritional needs of the students residing in the school. The cheque was handed over by Shri.Ganesan, director of KCF to Shri.Manikandan - Pratyaksha Charitable trust",
+      "fullDescription": "Kodai charitable foundation sponsored Sri Pratyaksha Charitable trust (Sangeetha paada salai) to help address the nutritional needs of the students residing in the school. The cheque was handed over by Shri. Ganesan and Shri. Swaminath, directors of KCF to Shri.Manikandan - Pratyaksha Charitable trust",
       "date": "2026-04-12",
       "image":"/PaadaSalai1.jpeg",
       "images": ["/PaadaSalai2.jpeg"],
