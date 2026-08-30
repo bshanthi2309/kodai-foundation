@@ -527,6 +527,20 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+  {
+    "name": "Blood Donation and Free Dental Checkup",
+    "media_snippets":[],
+    "gallery_images": [
+     "/IndependenceDayNews.jpeg",
+      "/ID1.jpeg",
+      "/ID2.jpeg",
+      "/ID3.jpeg",
+      "/ID4.jpeg",
+      "/ID5.jpeg",
+      "/ID6.jpeg"
+     ],
+    "description": ""
+  },
    {
     "name": "Donation to improve students nutrition",
     "media_snippets":[],
