@@ -531,6 +531,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "name": "Blood Donation and Free Dental Checkup",
     "media_snippets":[],
     "gallery_images": [
+    "/BloodDonation.jpeg",
      "/IndependenceDayNews.jpeg",
       "/ID1.jpeg",
       "/ID2.jpeg",
