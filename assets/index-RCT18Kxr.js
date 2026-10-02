@@ -411,16 +411,9 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "image": "./raghavan.jpeg"
   },
   
+
   {
     "id" : "5",
-    "name":"Srivatsan Raghavan",
-    "description":"Srivatsan Raghavan is an experienced international tax professional with more than 15 years of expertise in navigating the complexities of global tax regulations. He is deeply committed to making a positive and meaningful impact in the lives of others. His approach is guided by a strong sense of purpose, integrity, and a belief in the value of contributing to the broader community.",
-    "role": "Program Strategy Partner",
-    "category": "Program Strategy Team",
-    "image":"./srivasthan.jpeg"
-  },
-  {
-    "id" : "6",
     "name": "Arunkumar Chandrasekaran",
     "description": "Arunkumar Chandrasekaran is an accomplished professional with nearly 2 decades of experience and currently serves in a senior role at a leading automotive company. He holds an MBA from IIM Ahmedabad B.Tech from NIT Trichy and. Passionate about inclusive growth, he strongly believes that financial literacy is a vital tool for empowering individuals and communities.",
     "role": "Program Strategy Partner",
@@ -428,7 +421,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "image":"./arun.jpeg"
   },
   {
-    "id" : "7",
+    "id" : "6",
      "name": "Ganesan M",
     "role": "Director",
     "description": "A Chartered Accountant with a strong sense of social responsibility, Mr. Ganesan works with a leading multinational consultancy firm. He brings a thoughtful blend of professional insight and a deep commitment to social good, especially in the fields of education and community empowerment. He firmly believes that real, lasting change begins at the grassroots—when communities take the lead in shaping their own future.",
@@ -437,7 +430,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
    
   },
   {
-    "id" : "8",
+    "id" : "7",
      "name":"Swaminath Rajasekaran",
     "description":"Swaminath Rajasekaran is a seasoned technology professional currently in a key position at a top global IT company.  A B.Tech graduate from SASTRA University, with extensive work experience in both India & US, gaining valuable cross-cultural and global insights. Grounded in the principles of inner transformation and dharmic values, he believes that meaningful societal change begins from within.",
     "role": "Director",
@@ -446,7 +439,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
    
   },
   {
-    "id" : "9",
+    "id" : "8",
     "name": "Rajaraman Sasisekaran",
     "description": "Rajaraman Sasisekaran is an engineer with a deep interest in applying technology for societal impact. An M.Tech graduate from IIT, Madras he works with a leading space-tech startup focused on innovation and accessibility. He believes that advancements in science and space technology hold the key to solving some of India’s most pressing challenges and bridging development gaps. He is passionate about making scientific knowledge more accessible and lead initiatives that promote education and awareness among students.",
     "role": "Director",
@@ -454,7 +447,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "image":"./rajaraman.jpeg"
   },
   {
-    "id" : "10",
+    "id" : "9",
      "name": "Srinath Raghavan",
     "description": "Srinath Raghavan is a Senior Project Scientist at IIT Madras and a dedicated physiotherapy consultant. Known for his compassionate service, he runs a physiotherapy clinic in West Mambalam where patients are encouraged to contribute voluntarily, making care accessible to all. His commitment to inclusive healthcare and scientific problem-solving adds great value to the Program Strategy Team at Kodai.",
     "role": "Program Strategy Partner",
@@ -462,7 +455,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     "image": "./srinath.jpeg"
   },
     {
-    "id" : "11",
+    "id" : "10",
     "name": "Shanthi Balasubramanian",
     "description": "Shanthi Balasubramanian is an accomplished IT professional with nearly 2 decades of experience in IT industry. Currently serves as Consultant after serving senior roles in Delivering Projects to International Clients.",
     "role": "Digital Platform Administrator",
