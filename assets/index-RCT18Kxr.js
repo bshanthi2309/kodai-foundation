@@ -376,8 +376,8 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
       "description": "",
       "fullDescription": "Healthy Evening Snacks Programme for Class X and XII students.",
       "date": "2026-10-05",
-      "image":"/RiteBitest.jpeg",
-      "images": ["/RiteBitest.jpeg"],
+      "image":"/RiteBites.jpeg",
+      "images": ["/RiteBites.jpeg"],
       "category": "Community Support"
     }
 
