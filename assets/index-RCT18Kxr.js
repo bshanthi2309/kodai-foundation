@@ -362,12 +362,22 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {    
       "id": "18",
-      "title": "Blood Donation and Free Dental Checkup",
+      "title": "Health Camp conducted on Independence day",
       "description": "",
       "fullDescription": "Kodai Charitable Foundation Organises Blood Donation, Dental & Eye Camps in Mambalam Chennai, August 2026: Kodai Charitable Foundation organised a Blood Donation Camp along with Free Dental and Eye Check-up Camps at VKC Hall, Kuppiah Street, West Mambalam, on the occasion of the 80th Independence Day. The programme was conducted with the support and participation of the local community. VKC Hall was provided courtesy of SAC Charities for organising the camps. The Dental Check-up Camp was conducted by Dr. Gupta's Dental Specialities Centre, while the Eye Check-up Camp was supported by Dr. Agarwal's Eye Hospital. More than 100 people participated in the various camps and availed the health screening services. The Blood Donation Camp witnessed enthusiastic participation, with 50 donors coming forward and 50 units of blood being collected. The voluntary blood donation drive aimed to encourage the spirit of community service and highlight the importance of regular blood donation in saving lives. Kodai Charitable Foundation thanked all the donors, medical professionals, volunteers, SAC Charities and members of the community whose support contributed to the successful conduct of the programme. The Foundation continues to undertake community initiatives focusing on healthcare, education, nutrition, livelihood support and social welfare across Mambalam and surrounding areas.",
       "date": "2026-08-15",
       "image":"/BloodDonation.jpeg",
       "images": ["/BloodDonation.jpeg"],
+      "category": "Community Support"
+    },
+    {    
+      "id": "19",
+      "title": "Healthy Snacks Programme",
+      "description": "",
+      "fullDescription": "Healthy Evening Snacks Programme for Class X and XII students.",
+      "date": "2026-10-05",
+      "image":"/RiteBitest.jpeg",
+      "images": ["/RiteBitest.jpeg"],
       "category": "Community Support"
     }
 
