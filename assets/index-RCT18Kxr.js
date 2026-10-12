@@ -372,9 +372,9 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     },
     {    
       "id": "19",
-      "title": "Healthy Snacks Programme",
+      "title": "Kodai Charitable Foundation Launches ‘Rite Bites’ at Anjuham School",
       "description": "",
-      "fullDescription": "Healthy Evening Snacks Programme for Class X and XII students.",
+      "fullDescription": "Kodai Charitable Foundation (KCF) launched Rite Bites, a healthy evening snack programme, at Anjuham Higher Secondary School, West Mambalam, on 6 October. The initiative provides nutritious evening snacks twice a week to 200 students of Classes X and XII, supporting their well-being and energy as they prepare for their Board examinations and attend additional classes. The programme was launched in the presence of Ward Councillor Uma Anandan, KCF Directors Hariharan and Srinivasamurthi Vittal, along with the School Principal, teachers and students. Through Rite Bites, KCF aims to complement the students’ academic preparation with simple and healthy evening nutrition during this important phase of their schooling.",
       "date": "2026-10-05",
       "image":"/RiteBites.jpeg",
       "images": ["/RiteBites.jpeg"],
@@ -530,6 +530,19 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
     }
   }
 `;document.head.appendChild(QC);const TI=()=>{const[e,t]=x.useState(null),[n,r]=x.useState(1),o=6,s=JSON.parse(`[
+    {
+    "name": "Kodai Charitable Foundation Launches Rite Bites at Anjuham School",
+    "media_snippets":[ "/RiteBitesMedia.jpeg"],
+    "gallery_images": [
+    "/RiteBites1.jpeg",
+     "/RiteBites2.jpeg",
+      "/RiteBites3.jpeg",
+      "/RiteBites4.jpeg",
+      "/RiteBites5.jpeg"
+
+     ],
+    "description": ""
+  },
   {
     "name": "Blood Donation and Free Dental Checkup",
     "media_snippets":[],
